@@ -104,7 +104,7 @@ function draw() {
       '我很珍惜那段時光，也很謝謝當時的自己在高一有堅持下來，',
       '沒有退出社團，才留下了很多回憶，造就了現在的我。'
     ];
-    displayText(rectX + 20, rectY + 20, textData, 24); // 顯示其他文字，大小為 24
+    displayText(rectX + 20, rectY + 20, textData, 20); // 顯示其他文字，大小為 24
   }
 
   // 顯示圖片
